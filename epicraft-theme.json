@@ -27,15 +27,15 @@
         "user": "FFFFFF"
     },
     "images": {
-        "background": "https://googledrive.com/host/0B_xfJL72HtXNZE9JOUlzMWI4dEE/epicraft-wallpaper.png",
+        "background": "https://raw.githubusercontent.com/UserContributer/epicraft-rcs-theme-plugdj/master/epicraft-wallpaper.png",
         "playback": null,
         "admin": null,
         "ambassador": null,
-        "host": "https://googledrive.com/host/0B_xfJL72HtXNZE9JOUlzMWI4dEE/host.png",
-        "cohost": "https://googledrive.com/host/0B_xfJL72HtXNZE9JOUlzMWI4dEE/cohost.png",
-        "manager": "https://googledrive.com/host/0B_xfJL72HtXNZE9JOUlzMWI4dEE/manager.png",
-        "bouncer": "https://googledrive.com/host/0B_xfJL72HtXNZE9JOUlzMWI4dEE/bouncer.png",
-        "rdj": "https://googledrive.com/host/0B_xfJL72HtXNZE9JOUlzMWI4dEE/residentjd.png",
+        "host": "https://raw.githubusercontent.com/UserContributer/epicraft-rcs-theme-plugdj/master/host.png",
+        "cohost": "https://raw.githubusercontent.com/UserContributer/epicraft-rcs-theme-plugdj/master/cohost.png",
+        "manager": "https://raw.githubusercontent.com/UserContributer/epicraft-rcs-theme-plugdj/master/manager.png",
+        "bouncer": "https://raw.githubusercontent.com/UserContributer/epicraft-rcs-theme-plugdj/master/bouncer.png",
+        "rdj": "https://raw.githubusercontent.com/UserContributer/epicraft-rcs-theme-plugdj/master/residentjd.png",
         "subscriber": null,
         "silversubscriber": null
     },
