@@ -1,0 +1,45 @@
+{
+    "room": "Epicraft-Theme",
+    "author": "MusicListeningMaster",
+    "icon": "http://files.enjin.com.s3.amazonaws.com/103913/site_logo/small.png",
+    "css": null,
+    "rules": {
+        "allowAutorespond": true,
+        "allowAutowoot": true,
+        "allowAutojoin": true,
+        "allowAutograb": true,
+        "allowSmartVote": true,
+        "allowEmotes": true,
+        "allowShowingMehs": true,
+        "forceSmartVote": false
+    },
+    "ccc": {
+        "admin": null,
+        "ambassador": null,
+        "host": "#FF5252",
+        "cohost": "#66FF71",
+        "manager": "#59FFC5",
+        "bouncer": "#577EFF",
+        "rdj": "#FFFF57",
+        "subscriber": null,
+        "silversubscriber": null,
+        "friend": "#FF579A",
+        "user": "FFFFFF"
+    },
+    "images": {
+        "background": "https://googledrive.com/host/0B_xfJL72HtXNZE9JOUlzMWI4dEE/epicraft-wallpaper.png",
+        "playback": null,
+        "admin": null,
+        "ambassador": null,
+        "host": "https://googledrive.com/host/0B_xfJL72HtXNZE9JOUlzMWI4dEE/host.png",
+        "cohost": "https://googledrive.com/host/0B_xfJL72HtXNZE9JOUlzMWI4dEE/cohost.png",
+        "manager": "https://googledrive.com/host/0B_xfJL72HtXNZE9JOUlzMWI4dEE/manager.png",
+        "bouncer": "https://googledrive.com/host/0B_xfJL72HtXNZE9JOUlzMWI4dEE/bouncer.png",
+        "rdj": "https://googledrive.com/host/0B_xfJL72HtXNZE9JOUlzMWI4dEE/residentjd.png",
+        "subscriber": null,
+        "silversubscriber": null
+    },
+    "emotes": {
+    	"emote_name": null
+    }
+}
