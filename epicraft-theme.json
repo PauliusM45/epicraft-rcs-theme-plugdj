@@ -1,7 +1,7 @@
 {
     "room": "Epicraft-Theme",
     "author": "MusicListeningMaster",
-    "icon": "https://raw.githubusercontent.com/UserContributer/epicraft-rcs-theme-plugdj/master/logo_medium.png",
+    "icon": "https://raw.githubusercontent.com/UserContributer/epicraft-rcs-theme-plugdj/beta/logo_medium.png",
     "css": null,
     "rules": {
         "allowAutorespond": true,
@@ -27,15 +27,15 @@
         "none": "FFFFFF"
     },
     "images": {
-        "background": "https://raw.githubusercontent.com/UserContributer/epicraft-rcs-theme-plugdj/master/epicraft-wallpaper.png",
+        "background": "https://raw.githubusercontent.com/UserContributer/epicraft-rcs-theme-plugdj/beta/epicraft-wallpaper.png",
         "playback": null,
         "admin": null,
         "ambassador": null,
-        "host": "https://raw.githubusercontent.com/UserContributer/epicraft-rcs-theme-plugdj/master/host.png",
-        "cohost": "https://raw.githubusercontent.com/UserContributer/epicraft-rcs-theme-plugdj/master/cohost.png",
-        "manager": "https://raw.githubusercontent.com/UserContributer/epicraft-rcs-theme-plugdj/master/manager.png",
-        "bouncer": "https://raw.githubusercontent.com/UserContributer/epicraft-rcs-theme-plugdj/master/bouncer.png",
-        "rdj": "https://raw.githubusercontent.com/UserContributer/epicraft-rcs-theme-plugdj/master/residentdj.png",
+        "host": "https://raw.githubusercontent.com/UserContributer/epicraft-rcs-theme-plugdj/beta/host.png",
+        "cohost": "https://raw.githubusercontent.com/UserContributer/epicraft-rcs-theme-plugdj/beta/cohost.png",
+        "manager": "https://raw.githubusercontent.com/UserContributer/epicraft-rcs-theme-plugdj/beta/manager.png",
+        "bouncer": "https://raw.githubusercontent.com/UserContributer/epicraft-rcs-theme-plugdj/beta/bouncer.png",
+        "rdj": "https://raw.githubusercontent.com/UserContributer/epicraft-rcs-theme-plugdj/beta/residentdj.png",
         "subscriber": null,
         "silversubscriber": null
     },
