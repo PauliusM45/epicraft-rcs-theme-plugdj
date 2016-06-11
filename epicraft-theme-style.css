@@ -3,7 +3,17 @@
     width: 500% !important;
     height: 500% !important;
 }*/
-#dj-button {
-    background: #282c35;
-    border-radius: 0px;
+/* DJ */
+#dj-button .left
+{
+        border-radius:          0px;
 }
+#dj-button
+{
+        border-radius:          0px;
+}
+#dj-button:hover
+{
+        border-radius:          0px;
+}
+
