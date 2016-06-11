@@ -1,7 +1,7 @@
 {
     "room": "Epicraft-Theme",
     "author": "MusicListeningMaster",
-    "icon": "https://raw.githubusercontent.com/UserContributer/epicraft-rcs-theme-plugdj/master/logo-medium.png",
+    "icon": "https://raw.githubusercontent.com/UserContributer/epicraft-rcs-theme-plugdj/master/logo_medium.png",
     "css": null,
     "rules": {
         "allowAutorespond": true,
