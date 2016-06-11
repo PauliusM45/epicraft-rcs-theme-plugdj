@@ -1,26 +1,160 @@
-/*.room-background {
+.room-background {
     background: url(https://raw.githubusercontent.com/UserContributer/epicraft-rcs-theme-plugdj/master/epicraft-wallpaper.png) no-repeat !important;
     width: 500% !important;
     height: 500% !important;
+}
+#user-lists .list.staff .group {
+    
+}
+#footer {
+    
+}
+#playlist-button {
+    
+}
+#app-header {
+    
+}
+#store-button {
+    
+}
+#plug-dj {
+    
+}
+.header-panel-button.selected {
+    
+}
+#plug-menu {
+    
+}
+#plug-menu .legal {
+    
+}
+#settings {
+    
+}
+#user-lists .list .user:hover {
+    
+}
+#waitlist .list .user {
+    
+}
+.app-right .friends {
+    
+}
+#settings .header {
+    
+}
+@media (max-width: 1600px) {
+    #room .app-right {
+        
+    }
+}
+#chat .message:nth-child(2n+1),#chat .mention:nth-child(2n+1),#chat .skip:nth-child(2n+1),#chat .moderation:nth-child(2n+1),#chat .emote:nth-child(2n+1),#chat .update:nth-child(2n+1),#chat .welcome:nth-child(2n+1) {
+    
+}
+#chat .emote, #chat .mention, #chat .message, #chat .moderation, #chat .skip, #chat .system, #chat .update, #chat .welcome {
+    
+}
+#chat .mention {
+    
+}
+#chat .emote .from {
+     
+}
+#chat .emote {
+    
+}
+#chat-messages .emote .icon {
+    /*left: 0px;*/
+}
+#chat .emote .text {
+    
+}
+#footer {
+    
+}
+#playlist-button {
+    
+}
+.social-menu .icon-twitter,.social-menu .icon-facebook {
+    
+}
+#playlist-panel {
+    
+}
+#playlist-menu {
+    
+}
+#search {
+    
+}
+#search-bar {
+    
+}
+#filter-bar {
+    
+}
+#playlist-edit-button {
+    
+}
+#playlist-shuffle-button {
+    
+}
+#playlist-delete-button {
+    
+}
+#user-panel .score {
+    
+}
+#dj-button.is-locked .left,#dj-button.is-full .left,#vote .crowd-response.disabled .bottom {
+    
+}
+#dj-button.is-quit .left, #dj-button.is-leave .left, #dj-button.is-wait .left, #dj-button.is-locked .left, #dj-button.is-full .left {
+border-radius: 0px;
+/*border-left-width: 0px;*/
+}
+/*#dj-button.is-quit .left {
+border-left: 0px solid #f46b40;
+}
+#dj-button.is-leave .left {
+border-left: 0px solid #f46b40;
+}
+#dj-button.is-wait .left {
+border-left: 0px solid #00b5e6;
+}
+#dj-button.is-locked .left {
+border-left: 0px solid #734ba9;
+}
+#dj-button.is-full .left {
+border-left: 0px solid #CCCCCC;
 }*/
+#dj-button {
+background: #222224;
+border-radius: 0px;
+}
+#vote .crowd-response {
 
-/* DJ */
-#dj-button .left
-{
-        border-radius:          0px;
-        -webkit-border-radius:  0px;
-        -moz-border-radius:     0px
 }
-#dj-button
-{
-        border-radius:          0px;
-        -webkit-border-radius:  0px;
-        -moz-border-radius:     0px
+#woot .bottom, #woot.selected {
+
 }
-#dj-button:hover
-{
-        border-radius:          0px;
-        -webkit-border-radius:  0px;
-        -moz-border-radius:     0px
+#grab .bottom, #grab.selected {
+
+}
+#meh .bottom, #meh.selected {
+
+}
+.row:hover {
+    
+}
+#chat .mention .msg {
+    
+}
+#user-lists .list.room .user .icon-meh {
+    
 }
 
+#user-lists .list.room .user .icon-grab {
+    
+}
