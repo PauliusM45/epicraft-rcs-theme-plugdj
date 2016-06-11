@@ -3,3 +3,8 @@
     width: 500% !important;
     height: 500% !important;
 }*/
+#dj-button.is-quit .left, #dj-button.is-leave .left, #dj-button.is-wait .left, #dj-button.is-locked .left, #dj-button.is-full .left {
+background: #121214;
+border-radius: 0px;
+/*border-left-width: 4px;*/
+}
