@@ -112,9 +112,9 @@
 }
 #dj-button.is-quit .left, #dj-button.is-leave .left, #dj-button.is-wait .left, #dj-button.is-locked .left, #dj-button.is-full .left {
 border-radius: 0px;
-/*border-left-width: 0px;*/
+border-left-width: 0px;
 }
-/*#dj-button.is-quit .left {
+#dj-button.is-quit .left {
 border-left: 0px solid #f46b40;
 }
 #dj-button.is-leave .left {
@@ -130,7 +130,6 @@ border-left: 0px solid #734ba9;
 border-left: 0px solid #CCCCCC;
 }*/
 #dj-button {
-background: #222224;
 border-radius: 0px;
 }
 #vote .crowd-response {
